@@ -1,6 +1,6 @@
 {
-  "path": "/blog",
-  "title": "Blog",
+  "path": "/posts",
+  "title": "Posts",
   "pageType": "list",
   "listType": "post",
   "hero": {
