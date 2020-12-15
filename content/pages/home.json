@@ -7,12 +7,12 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "Providing an improved editing environment",
+    "headline": "Welcome to TAOcode",
+    "textline": "Home of full stack web app developer, Mark Jones",
     "ctas": [
       {
-        "label": "Read The Blog",
-        "link": "/blog",
+        "label": "Read My Posts",
+        "link": "/posts",
         "primary": true,
         "arrow": false
       },
