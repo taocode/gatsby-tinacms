@@ -1,5 +1,5 @@
 ---
-title: Nostris blandis iacuit
+title: Gatsby + Tina CMS
 path: /blog/nostris-blandis
 date: '2019-04-06'
 type: post
@@ -7,9 +7,10 @@ draft: false
 hero:
   overlay: true
   large: false
+authors:
+  - mark-jones
 ---
-Nostris blandis iacuit Laertiadaeque est Tritona, [pectora si
-tantum](http://valens.io/haec.php) tantumque missus quoque plumis **Atlante da** generum meminitque exstat!
+How often
 
 > Obstruat _manusque nunc_, est arces equum caelo, ore Lelex proceres **sit
 > stabit** limbo campis hoc. Clara utque Acheronta neque aer transcurrere
