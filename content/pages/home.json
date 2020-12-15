@@ -8,13 +8,13 @@
   ],
   "hero": {
     "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "textline": "Providing an improved editing environment",
     "ctas": [
       {
         "label": "Read The Blog",
         "link": "/blog",
         "primary": true,
-        "arrow": true
+        "arrow": false
       },
       {
         "label": "Contact Us",
@@ -23,7 +23,7 @@
         "primary": false
       }
     ],
-    "image": "../images/cafe-2.jpg",
+    "image": "../images/[object Object]",
     "large": true
   },
   "displayTitle": false,
